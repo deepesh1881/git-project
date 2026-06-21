@@ -1,0 +1,7 @@
+git init
+create file under initialized folder
+git commit -m "your msg" file_name
+git add file_name
+git status
+git push origin master
+
